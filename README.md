@@ -11,6 +11,13 @@ This repository contains the official UI screens, color palette, and design note
 ## Color Palette
 See: [color-palette.md](color-palette.md)
 
+## 📁 Assets
+This folder contains shared assets like:
+- Logos
+- Icons
+- Backgrounds
+
+
 ## Notes
 See: [ui-info.md](ui-info.md)
 
